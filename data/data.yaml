@@ -1,0 +1,5 @@
+train: ..train/Images
+test: ../test/Images
+
+nc: 4
+names: ['Unriped','Peeled','Riped','Stale']
